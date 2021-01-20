@@ -15,3 +15,5 @@ Then run `bundle install`
 Then run `rails db:migrate`
 
 Run the servers ``rails server`` and ``bin/webpack-dev-server``
+
+[source article](https://levelup.gitconnected.com/vue-js-with-rails-6-and-performing-crud-operations-b043ef3691f2)
